@@ -1,0 +1,9 @@
+
+GET => http://ejemplo1.test/students		JSON
+GET => http://ejemplo1.test/students/1		JSON
+
+POST => http://ejemplo1.test/students		JSON
+
+PUT => http://ejemplo1.test/students/1		JSON
+
+DELETE => http://ejemplo1.test/students/2	JSON
